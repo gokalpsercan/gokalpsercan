@@ -1,9 +1,19 @@
 <img src="banner_v2.png" alt="GitHub Banner" width="100%" />
-#  About Me:
-Hi, I’m Sercan — a former attorney who traded court briefs for code.<br>I dove into software development, starting with data-science projects using Python, pandas, and scikit-learn, and I’m now deepening my skills in AI and machine-learning workflows. Today I’m enrolled in an AI bootcamp focused on graph databases (Neo4j) and modern ML pipelines.<br>My current fascinations are:<br>• Large Language Models & NLP — exploring retrieval-augmented generation and text analytics.<br>• Knowledge graphs — mapping complex relationships to power smarter applications.<br>• Legal-tech — using data to make jurisprudence and compliance more accessible.<br><br>I’m always up for collaborating on open-source ideas at the intersection of law and AI. Let’s connect!
+# About Me
 
+Hi, I’m Sercan — a former attorney who traded court briefs for code.
 
-## 🌐 Socials:
+I dove into software development, starting with data-science projects using Python, pandas, and scikit-learn, and I’m now deepening my skills in AI and machine-learning workflows. Today I’m enrolled in an AI bootcamp focused on graph databases (Neo4j) and modern ML pipelines.
+
+My current fascinations are:
+
+- **Large Language Models & NLP** — exploring retrieval-augmented generation and text analytics  
+- **Knowledge graphs** — mapping complex relationships to power smarter applications  
+- **Legal-tech** — using data to make jurisprudence and compliance more accessible
+
+I’m always up for collaborating on open-source ideas at the intersection of law and AI. Let’s connect!
+
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sercangokalp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gokalpsercan@hotmail.com) 
 
 # 💻 Tech Stack:
