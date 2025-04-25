@@ -1,5 +1,5 @@
 <img src="banner_v2.png" alt="GitHub Banner" width="100%" />
-# About Me
+<h1>About Me:</h1>
 
 Hi, I’m Sercan — a former attorney who traded court briefs for code.
 
