@@ -1,3 +1,4 @@
+<img src="banner.png" alt="GitHub Banner" width="100%" />
 #  About Me:
 Hi, I’m Sercan — a former attorney who traded court briefs for code.<br>I dove into software development, starting with data-science projects using Python, pandas, and scikit-learn, and I’m now deepening my skills in AI and machine-learning workflows. Today I’m enrolled in an AI bootcamp focused on graph databases (Neo4j) and modern ML pipelines.<br>My current fascinations are:<br>• Large Language Models & NLP — exploring retrieval-augmented generation and text analytics.<br>• Knowledge graphs — mapping complex relationships to power smarter applications.<br>• Legal-tech — using data to make jurisprudence and compliance more accessible.<br><br>I’m always up for collaborating on open-source ideas at the intersection of law and AI. Let’s connect!
 
